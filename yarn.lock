@@ -1195,10 +1195,15 @@
   dependencies:
     "@types/node" "*"
 
-"@types/chai@*", "@types/chai@^4.2.13":
+"@types/chai@*":
   version "4.2.13"
   resolved "https://registry.yarnpkg.com/@types/chai/-/chai-4.2.13.tgz#8a3801f6655179d1803d81e94a2e4aaf317abd16"
   integrity sha512-o3SGYRlOpvLFpwJA6Sl1UPOwKFEvE4FxTEB/c9XHI2whdnd4kmPVkNLL8gY4vWGBxWWDumzLbKsAhEH5SKn37Q==
+
+"@types/chai@^4.3.18":
+  version "4.3.18"
+  resolved "https://registry.yarnpkg.com/@types/chai/-/chai-4.3.18.tgz#dd6a46c9796b0435c13f85e8d44c8ea8e37fa2c1"
+  integrity sha512-2UfJzigyNa8kYTKn7o4hNMPphkxtu4WTJyobK3m4FBpyj7EK5xgtPcOtxLm7Dznk/Qxr0QXn+gQbkg7mCZKdfg==
 
 "@types/eslint-visitor-keys@^1.0.0":
   version "1.0.0"
